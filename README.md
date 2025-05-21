@@ -1,4 +1,4 @@
-# EX-02-Cross-Platform-Prompting-Evaluating-Diverse-Techniques-in-AI-Powered-Text-Summarization
+## EX-02-Cross-Platform-Prompting-Evaluating-Diverse-Techniques-in-AI-Powered-Text-Summarization
 
 ## AIM
 To evaluate and compare the effectiveness of prompting techniques (zero-shot, few-shot, chain-of-thought, role-based) across different AI platforms (e.g., ChatGPT, Gemini, Claude, Copilot) in a specific task: text summarization.
@@ -65,5 +65,7 @@ User Experience (subjective rating 0–5)
 Aggregate scores to identify patterns and determine the most effective platform + technique combination.
 
 ## Result
-![Screenshot 2025-05-20 215231](https://github.com/user-attachments/assets/c3f9fae5-97e7-49f1-8d35-490c5d98ccee)
+![image](https://github.com/user-attachments/assets/2d9f439a-7948-4fbc-8efe-882b18136b5d)
+
+
 
